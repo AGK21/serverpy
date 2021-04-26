@@ -1,0 +1,35 @@
+/*socialed-style.css */
+/* Own stylesheet for SocialED */
+
+body {
+  font-family: sans-serif;
+  padding-left: 50px;
+  background-color: #9acdf0; /* blue */
+  flood-color: #2A2929; /* dark grey */
+  margin: 20px;
+}
+a:link{
+ color:aquamarine;
+ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+a:hover {
+  color:rgb(33, 160, 149);
+}
+h1 {
+   color:rgb(109, 31, 17);
+   font-size:20pt;
+}
+
+form {
+  padding: 20px;
+}
+
+label {
+  color: cadetblue;
+}
+
+.inputs {
+  color: rgb(174, 102, 192);
+}
+
