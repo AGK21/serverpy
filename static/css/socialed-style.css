@@ -2,16 +2,16 @@
 /* Own stylesheet for SocialED */
 
 #container {
-  font-family: Helvetica, Geneva, Arial, sans-serif;
+  font-family: sans-serif;
   padding-left: 20px;
   background-color: #FFFFFF; /* beige */
-  font-color: #2A2929; /* dark grey */
+  flood-color: #2A2929; /* dark grey */
   margin: 10px;
 }
 a:link{
  color:black;
+}
 
- }
 a:hover {
   color:green;
 }
@@ -23,23 +23,17 @@ h1 {
 }
 
 form {
-
-
-
-
+padding: 20;
 
 }
+
 label {
-
-
-
-
-
+  color: cadetblue;
 }
+
 .inputs {
 
-
-
+  color: black;
 
 }
 
