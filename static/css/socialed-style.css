@@ -9,14 +9,15 @@
   margin: 10px;
 }
 a:link{
- color:black;
+ color:aquamarine;
+ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 a:hover {
-  color:green;
+  color:rgb(33, 160, 149);
 }
 h1 {
-   color:blue;
+   color:rgb(109, 31, 17);
    font-size:20pt;
 
 
@@ -33,7 +34,7 @@ label {
 
 .inputs {
 
-  color: black;
+  color: rgb(174, 102, 192);
 
 }
 
